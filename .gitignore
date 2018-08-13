@@ -1,0 +1,19 @@
+# For macOS 
+.DS_Store
+
+# For Windows
+thumbs.db
+
+# For NPM
+node_modules/
+npm-debug.log
+npm-debug.log.*
+
+# For git
+!.gitkeep
+
+# Others
+assembly/
+mocks_data/proxy/**/__*
+
+build
